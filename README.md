@@ -1,2 +1,3 @@
-# snow-boarder-unity
-Code for the "Snow Boarder" game tutorial, as part of the "Complete C# Unity Game Developer 2D" course for the Unity game engine
+# Snow Boarder
+Code for the _Snow Boarder_ game tutorial, as part of the [Complete C# Unity Game Developer 2D](https://www.udemy.com/course/unitycourse/)
+course for the [Unity](https://unity.com/) game engine.
